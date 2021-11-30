@@ -81,7 +81,7 @@ python run.py -f "C:\Users\Testuser\Desktop\WhatsApp Chat with Arshiya.txt"
 
 ### 8. Contributors
 
-- [@Kartheek Palepu](https://www.github.com/arshiyazeba1)
+- [@Arshiyaz Zeba](https://www.github.com/arshiyazeba1)
 
 ### 9. Idea Credits
 
