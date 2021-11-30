@@ -19,7 +19,7 @@ That exported chat (.txt) needs to be present in the same system which runs the 
 
 ### 3. Clone This Repository
 
-On <https://github.com/kartheekpnsn/chat-explore>, click the green "Clone or Download" button at the top right of the page. If you want to get started with this script more quickly, click the "Download ZIP" button, and extract the ZIP somewhere on your computer.
+On <https://github.com/arshiyazeba1/whatsapp-chat-analysis>, click the green "Clone or Download" button at the top right of the page. If you want to get started with this script more quickly, click the "Download ZIP" button, and extract the ZIP somewhere on your computer.
 
 ### 4. Install Dependencies
 
@@ -58,7 +58,7 @@ python run.py -f <file_path>
 
 #### Example:
 ```shell
-python run.py -f "C:\Users\Testuser\Desktop\WhatsApp Chat with Kartheek.txt"
+python run.py -f "C:\Users\Testuser\Desktop\WhatsApp Chat with Arshiya.txt"
 ```
 
 ### 6. Sample Output
@@ -81,8 +81,7 @@ python run.py -f "C:\Users\Testuser\Desktop\WhatsApp Chat with Kartheek.txt"
 
 ### 8. Contributors
 
-- [@Kartheek Palepu](https://www.github.com/kartheekpnsn)
-- [@Yashwanth Kuruganti](https://github.com/yashkuru)
+- [@Kartheek Palepu](https://www.github.com/arshiyazeba1)
 
 ### 9. Idea Credits
 
