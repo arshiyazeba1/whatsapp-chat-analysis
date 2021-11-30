@@ -1,0 +1,10 @@
+numpy
+pandas
+tldextract
+scipy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+nltk
+twython
