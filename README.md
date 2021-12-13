@@ -71,19 +71,12 @@ python run.py -f "C:\Users\Testuser\Desktop\WhatsApp Chat with Arshiya.txt"
 
 ![Sample 2 Text](https://raw.githubusercontent.com/kartheekpnsn/chat-explore/master/samples/ss2.PNG "Output Sample 2")
 
-### 7. Update Patch
 
-- `16Jan2020` Added First to text feature in the plots
-- `17Jan2020`: Sentiment over period of time, Usual Sentiment through out the 24 hours
-    - Can help in understanding if people are showing positive emotions in the morning and negative in the evenings.
-- TODO: Parser for iOS exports.
-
-
-### 8. Contributors
+### 7. Contributors
 
 - [@Arshiyaz Zeba](https://www.github.com/arshiyazeba1)
 
-### 9. Idea Credits
+### 8. Idea Credits
 
 **Acknowledgement:**
 
