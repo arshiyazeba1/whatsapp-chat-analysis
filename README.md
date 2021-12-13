@@ -65,11 +65,11 @@ python run.py -f "C:\Users\Testuser\Desktop\WhatsApp Chat with Arshiya.txt"
 
 **Sample 1**:
 
-![Sample 1 Text](https://raw.githubusercontent.com/arshiyazeba1/whatsapp-chat-analysis/main/samples/ss1.JPEG "Output Sample 1")
+![Sample 1 Text](https://github.com/arshiyazeba1/whatsapp-chat-analysis/blob/review1/samples/SS1.JPG "Output Sample 1")
 
 **Sample 2**:
 
-![Sample 2 Text](https://raw.githubusercontent.com/arshiyazeba1/whatsapp-chat-analysis/main/samples/ss2.PNG "Output Sample 2")
+![Sample 2 Text](https://github.com/arshiyazeba1/whatsapp-chat-analysis/blob/review1/samples/ss2.PNG "Output Sample 2")
 
 
 ### 7. Contributors
